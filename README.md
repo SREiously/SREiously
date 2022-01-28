@@ -1,7 +1,7 @@
 # Who am I?
 I'm a Senior Site Reliability Engineer for a large, well known, online company.  As such, my day to day workload includes software development, automation, monitoring/alerting, and various other tasks.
 
-I also have a rather varied interest in technology outside of my working life; Including, but not limited to: basic game development (godot is looking interesting at the moment), home automation.  Aside from technology, i'm also interested in various science topics, reading, films and TV, gaming, tabletop-gaming.  Standard geek life stuff :laughing:
+I also have a rather varied interest in technology outside of my working life; Including, but not limited to: basic game development (godot is looking interesting at the moment).  Aside from technology, i'm also interested in various science topics, reading, films and TV, gaming, tabletop-gaming.  Standard geek life stuff :laughing:
 
 # What is this account for?
 This github account is primarily a space for me to experiment.  I'll be using it to store various small scripts, tools and interesting snippets which may help people in my own line of work or with similar interests.  Some if not all of the items found on this account will be in various states of disrepair, and may be completely abandoned at times.  This is due to my natual loss of interest and procrastination.
