@@ -1,5 +1,5 @@
 # Who am I?
-I'm a Senior Site Reliability Engineer for a well known, large, online company.  As such, my day to day workload includes software development, automation, monitoring/alerting, and various other tasks.  
+I'm a Senior Site Reliability Engineer for a large, well known, online company.  As such, my day to day workload includes software development, automation, monitoring/alerting, and various other tasks.
 
 I also have a rather varied interest in technology outside of my working life; Including, but not limited to: basic game development (godot is looking interesting at the moment), home automation.  Aside from technology, i'm also interested in various science topics, reading, films and TV, gaming, tabletop-gaming.  Standard geek life stuff :laughing:
 
